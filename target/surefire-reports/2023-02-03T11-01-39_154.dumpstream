@@ -1,0 +1,18 @@
+# Created at 2023-02-03T11:01:40.291
+OpenJDK 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created at 2023-02-03T11:01:41.220
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2023-02-03T11:01:41.231
+WARNING: Illegal reflective access by org.mockito.cglib.core.ReflectUtils$2 (file:/C:/Users/ashish.kumar/.m2/repository/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created at 2023-02-03T11:01:41.246
+WARNING: Please consider reporting this to the maintainers of org.mockito.cglib.core.ReflectUtils$2
+
+# Created at 2023-02-03T11:01:41.260
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2023-02-03T11:01:41.272
+WARNING: All illegal access operations will be denied in a future release
+
